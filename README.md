@@ -6,7 +6,7 @@ First Version: 1.0.0.0
 Current Version: 1.0.0.0
 
 
-Thanks for downloading RobloxOS, I hope you enjoy experiencing the first version of it.
+Thanks for downloading RobloxOS, I hope you enjoy the experience
 Before you open any of those setup files, let me explain what they do.
 
 
