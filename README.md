@@ -1,9 +1,9 @@
 # RobloxOS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Last Updated: 17th November, 2022 @ 10:58am AEDT
+Last Updated: 17th November, 2022 @ 12:00pm AEDT
 
-First Version: 1.0.0.0
-Current Version: 1.0.0.0
+First Version: 1.0.0
+Current Version: 1.0.0
 
 
 Thanks for downloading RobloxOS, I hope you enjoy the experience
